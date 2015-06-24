@@ -9,7 +9,7 @@
 
 模式结构大致有三种不同的类别. 请点击 [:notebook:](http://en.wikipedia.org/wiki/Software_design_pattern) 有关的模式在维基百科上的完整说明。
 
-### [Creational](Creational)
+### [Creational创建型模式](Creational)
 
 * [AbstractFactory抽象工厂](Creational/AbstractFactory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_factory_pattern)
 * [Builder](Creational/Builder) [:notebook:](http://en.wikipedia.org/wiki/Builder_pattern)
