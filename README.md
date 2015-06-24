@@ -14,11 +14,11 @@
 * [AbstractFactory抽象工厂](Creational/AbstractFactory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_factory_pattern)
 * [Builder建造者模式](Creational/Builder) [:notebook:](http://en.wikipedia.org/wiki/Builder_pattern)
 * [FactoryMethod工厂方法模式](Creational/FactoryMethod) [:notebook:](http://en.wikipedia.org/wiki/Factory_method_pattern)
-* [Multiton多例模式](Creational/Multiton) (is considered an anti-pattern! :no_entry:)
+* [Multiton多例模式](Creational/Multiton) (被认为是一种反模式! :no_entry:)
 * [Pool对象池模式](Creational/Pool) [:notebook:](http://en.wikipedia.org/wiki/Object_pool_pattern)
 * [Prototype原型模式](Creational/Prototype) [:notebook:](http://en.wikipedia.org/wiki/Prototype_pattern)
 * [SimpleFactory简单工厂模式](Creational/SimpleFactory)
-* [Singleton单例模式](Creational/Singleton) [:notebook:](http://en.wikipedia.org/wiki/Singleton_pattern) (is considered an anti-pattern! :no_entry:)
+* [Singleton单例模式](Creational/Singleton) [:notebook:](http://en.wikipedia.org/wiki/Singleton_pattern) (被认为是一种反模式! :no_entry:)
 * [StaticFactory静态工厂模式](Creational/StaticFactory)
 
 ### [Structural结构型模式](Structural)
