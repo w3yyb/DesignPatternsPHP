@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/domnikl/DesignPatternsPHP.png?branch=master)](https://travis-ci.org/domnikl/DesignPatternsPHP)
 
-这是一组已知的设计模式和一些如何在 PHP 中实现它们的示例代码。每个模式有一个小的示例列表 (他们大多数来自 Zend 框架、 Symfony2 或 Doctrine2 )。
+这是一组(34个)已知的设计模式和一些如何在 PHP 中实现它们的示例代码。每个模式有一个小的示例列表 (他们大多数来自 Zend 框架、 Symfony2 或 Doctrine2 )。
 我认为模式的问题是通常人们知道他们，但不知道什么时候使用。
 
 ## 模式
@@ -11,7 +11,7 @@
 
 ### [Creational创建型模式](Creational)
 
-* [AbstractFactory抽象工厂](Creational/AbstractFactory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* [AbstractFactory抽象工厂模式](Creational/AbstractFactory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_factory_pattern)
 * [Builder建造者模式](Creational/Builder) [:notebook:](http://en.wikipedia.org/wiki/Builder_pattern)
 * [FactoryMethod工厂方法模式](Creational/FactoryMethod) [:notebook:](http://en.wikipedia.org/wiki/Factory_method_pattern)
 * [Multiton多例模式](Creational/Multiton) (被认为是一种反模式! :no_entry:)
