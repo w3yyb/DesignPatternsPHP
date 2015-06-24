@@ -11,7 +11,7 @@
 
 ### [Creational](Creational)
 
-* [AbstractFactory](Creational/AbstractFactory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* [AbstractFactory抽象工厂](Creational/AbstractFactory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_factory_pattern)
 * [Builder](Creational/Builder) [:notebook:](http://en.wikipedia.org/wiki/Builder_pattern)
 * [FactoryMethod](Creational/FactoryMethod) [:notebook:](http://en.wikipedia.org/wiki/Factory_method_pattern)
 * [Multiton](Creational/Multiton) (is considered an anti-pattern! :no_entry:)
