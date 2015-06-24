@@ -2,13 +2,12 @@
 
 [![Build Status](https://travis-ci.org/domnikl/DesignPatternsPHP.png?branch=master)](https://travis-ci.org/domnikl/DesignPatternsPHP)
 
-This is a collection of known design patterns and some sample code how to implement them in PHP. Every pattern has a small list of examples (most of them from Zend Framework, Symfony2 or Doctrine2 as I'm most familiar with this software).
+这是一组已知的设计模式和一些如何在 PHP 中实现它们的示例代码。每个模式有一个小的示例列表 (他们大多数来自 Zend 框架、 Symfony2 或 Doctrine2 )。
+我认为模式的问题是通常人们知道他们，但不知道什么时候使用。
 
-I think the problem with patterns is that often people do know them but don't know when to apply which.
+## 模式
 
-## Patterns
-
-The patterns can be structured in roughly three different categories. Please click on the [:notebook:](http://en.wikipedia.org/wiki/Software_design_pattern) for a full explanation of the pattern on Wikipedia.
+模式结构大致有三种不同的类别. 请点击 [:notebook:](http://en.wikipedia.org/wiki/Software_design_pattern) 有关的模式在维基百科上的完整说明。
 
 ### [Creational](Creational)
 
