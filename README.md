@@ -53,6 +53,7 @@
 * [Delegation委托模式](More/Delegation) [:notebook:](http://en.wikipedia.org/wiki/Delegation_pattern)
 * [ServiceLocator服务定位器模式](More/ServiceLocator) [:notebook:](http://en.wikipedia.org/wiki/Service_locator_pattern)
 * [Repository仓库模式](More/Repository)
+* [EAV实体属性值模式](https://github.com/domnikl/DesignPatternsPHP/blob/master/More/EAV) [:notebook:](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model)
 
 
 
